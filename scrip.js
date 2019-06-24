@@ -12,7 +12,7 @@ function myfun() {
     }
     // province
    if(a.charAt(0) ==1){
-        document.getElementById('province').innerHTML="PROVINCE: khyber Pakhton kha";
+        document.getElementById('province').innerHTML=" PROVINCE: khyber Pakhton kha";
 
 
     }
