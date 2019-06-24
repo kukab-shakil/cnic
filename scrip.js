@@ -12,7 +12,7 @@ function myfun() {
     }
     // province
    if(a.charAt(0) ==1){
-        document.getElementById('province').innerHTML="khyber Pakhton kha";
+        document.getElementById('province').innerHTML="PROVINCE: khyber Pakhton kha";
 
 
     }
@@ -44,7 +44,7 @@ function myfun() {
     // province
     // if 123456789 in CNIC show error
     if ((a.charAt(0) != 1) && (a.charAt(0) != 2) && (a.charAt(0) != 3) && (a.charAt(0) != 4) && (a.charAt(0) != 5) && (a.charAt(0) != 6) && (a.charAt(0) != 7)) {
-        document.getElementById('me').innerHTML = 'invali! Pakistan has only SEVEN Province';
+        document.getElementById('me').innerHTML = 'invalid! Pakistan has only SEVEN Province';
 
         return false;
 
