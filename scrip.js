@@ -25,7 +25,7 @@ function myfun() {
 
 
     }if(a.charAt(0) ==4){
-        document.getElementById('province').innerHTML="PROVINCE: Karachi";
+        document.getElementById('province').innerHTML="PROVINCE: Sindh";
 
 
     }if(a.charAt(0) ==5){
