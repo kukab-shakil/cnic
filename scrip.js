@@ -17,27 +17,27 @@ function myfun() {
 
     }
     if(a.charAt(0) ==2){
-        document.getElementById('province').innerHTML=" PROVINCE: FATA";
+        document.getElementById('province').innerHTML=" Province: FATA";
 
 
     }if(a.charAt(0) ==3){
-        document.getElementById('province').innerHTML="PROVINCE: punjab";
+        document.getElementById('province').innerHTML="Province: punjab";
 
 
     }if(a.charAt(0) ==4){
-        document.getElementById('province').innerHTML="PROVINCE: Sindh";
+        document.getElementById('province').innerHTML="Province: Sindh";
 
 
     }if(a.charAt(0) ==5){
-        document.getElementById('province').innerHTML="PROVINCE: Balochistan";
+        document.getElementById('province').innerHTML="Province: Balochistan";
 
 
     }if(a.charAt(0) ==6){
-        document.getElementById('province').innerHTML="PROVINCE: Islamabad";
+        document.getElementById('province').innerHTML="Province: Islamabad";
 
 
     }if(a.charAt(0) ==7){
-        document.getElementById('province').innerHTML="PROVINCE: Giggit Bakdistan";
+        document.getElementById('province').innerHTML="Province: Giggit Bakdistan";
 
 
     }
